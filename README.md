@@ -5,8 +5,8 @@ Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do What
 ## Utilização
 
 Abra [shrekSendScriptV2-br.js](https://github.com/leocodorna13/ScriptMsgWhatsApp/blob/main/A%20B%C3%ADblia%20Sagrada%20Palavra%20por%20Palavra)
-
-Copie todo o conteúdo 
+O site não conseguirá carregar a exibição"(Sorry about that, but we can’t show files that are this big right now.)"
+Clique em 'View raw'
 
 ``clique em raw -> ctrl+a -> ctrl+c ou clique no botao copiar no GitHub``
 
